@@ -52,7 +52,7 @@ const Orders = () => {
 
     return (
         <div className="mx-auto max-w-4xl px-4 py-8">
-            {/* User Information */}
+            {/* User Information... */}
             <div className="flex items-center justify-between rounded-lg border border-slate-200 bg-white p-6">
                 <div className="flex items-center gap-4">
                     <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary text-lg font-semibold text-white">
