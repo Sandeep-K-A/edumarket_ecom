@@ -7,6 +7,7 @@ const STATUS_STYLES = {
     delivered: "bg-green-100 text-green-700",
     cancelled: "bg-red-100 text-red-700",
 }
+//changes made to commit
 
 const OrderCard = ({ order }) => {
     return (
